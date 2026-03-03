@@ -2,7 +2,7 @@ from ultralytics import YOLO
 
 # LOad a pretrained YOLOv8n model
 
-model = YOLO('best.pt')
+model = YOLO('The_model.pt')
 
 #run infernece on the source
 
